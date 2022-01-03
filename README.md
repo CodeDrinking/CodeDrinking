@@ -1,7 +1,8 @@
 
-    Hey there i'm roshan AKA CodeDrinking.
-    I'm a student 
+ 
 - 👋 Hi, I’m @CodeDrinking
+
+
 - 👀 I’m interested in Java developmemt and MERN FULL STACK Development
 - 🌱 I’m currently learning Java with DSA and MERN FULL STACK in Coding Ninjas
 - 💞️ I’m looking to collaborate with Developer and good programmer and learner
